@@ -1,0 +1,410 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A plot for a crown in a visitation-sermon, at Cricklade, May the fifteenth, 1682 : being a parallel between the heir and husband-men in the parable, and the rightful prince and his excluders in Parliament / by N. Adee ...</title>
+            <author>Adee, N. (Nicholas), d. 1701.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1685</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 64 KB of XML-encoded text transcribed from 21 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A26408</idno>
+            <idno type="STC">Wing A573</idno>
+            <idno type="STC">ESTC R22248</idno>
+            <idno type="EEBO-CITATION">12487930</idno>
+            <idno type="OCLC">ocm 12487930</idno>
+            <idno type="VID">62302</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A26408)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 62302)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 302:5)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A plot for a crown in a visitation-sermon, at Cricklade, May the fifteenth, 1682 : being a parallel between the heir and husband-men in the parable, and the rightful prince and his excluders in Parliament / by N. Adee ...</title>
+                  <author>Adee, N. (Nicholas), d. 1701.</author>
+               </titleStmt>
+               <extent>[20], 20 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by R.W., and are to be sold by Walter Davis ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1685.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in Union Theological Seminary Library, New York.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Bible. --  N.T. --  Luke XX, 14 --  Sermons.</term>
+               <term>Visitation sermons.</term>
+               <term>Sermons, English.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-03</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-03</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-05</date>
+            <label>Colm MacCrossan</label>Sampled and proofread</change>
+         <change>
+            <date>2013-05</date>
+            <label>Colm MacCrossan</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:62302:1" rendition="simple:additions"/>
+            <p>A PLOT FOR A CROWN, IN A VISITATION-SERMON, At <hi>CRICKLADE, MAY</hi> the Fifteenth, 1682. Being a Parallel between the Heir and Huſband-men in the Parable, and the Right<g ref="char:EOLhyphen"/>ful Prince, and his Excluders in Parliament. By <hi>N. ADEE,</hi> Vicar of <hi>Rodborne-Cheyny,</hi> in <hi>Wiltſhire.</hi> Publiſhed in its own Vindication.</p>
+            <q>
+               <l>How could'ſt thou bear, thou meeker <hi>Moſes,</hi> how?</l>
+               <l>Was ever Lion bit with Whelps till now?</l>
+               <bibl>
+                  <hi>Bl. Trib. Eleg. K.</hi> Char. <hi>I.</hi>
+               </bibl>
+            </q>
+            <q>
+               <l>— <hi>Praeſens malejudicat Aetas,</hi>
+               </l>
+               <l>
+                  <hi>Judicium melius Poſteritatis erit.</hi>
+               </l>
+            </q>
+            <p>
+               <hi>LONDON,</hi> Printed by <hi>R. W.</hi> and are to be ſold by <hi>Walter Davis</hi> in <hi>Amen Corner,</hi> 1685.</p>
+         </div>
+         <div type="preface">
+            <pb facs="tcp:62302:2"/>
+            <pb facs="tcp:62302:2"/>
+            <head>THE PREFACE.</head>
+            <p>I Do not publiſh this under the Umbrage of that common Excuſe, which ſerves to Uſher many Books into the World, <hi>viz.</hi> That I did it at the entreaty, or for the ſatiſ<g ref="char:EOLhyphen"/>faction of Friends: But the things which I write, have been torn from me through the Midwifery of thoſe <hi>Carnifices, Obſtetrices,</hi> vi<g ref="char:EOLhyphen"/>rulently diſaffected, and pernicious Tongues.</p>
+            <p>Seeing the ſevere Cenſures this hath laid under are not yet expired, I cannot expect that they'll ever be buried, unleſs I obviate their obloquy by a Publication.</p>
+            <p>Therefore as my whole Country are Wit<g ref="char:EOLhyphen"/>neſſes of the Aſperſions I have hereby ſuſtain<g ref="char:EOLhyphen"/>ed, they may now aſſoil my Infamy: And
+<pb facs="tcp:62302:3"/>though I have born it ſo long againſt my Will; yet they'll now ſee, that I have born it undeſervedly.</p>
+            <p>I delivered ſuch Truths which I thought ne<g ref="char:EOLhyphen"/>ceſſary to rebuke the Spirit of Rebellion, that was gone abroad in thoſe diſtracted Times; neither courting the Favor, nor valuing the Diſpleaſure of the moſt formidable Democra<g ref="char:EOLhyphen"/>ticks; being content with the purchaſe of Re<g ref="char:EOLhyphen"/>proof, and Cenſure from them, whil'ſt their Meal-mouth'd Orators have been rewarded with Honor, and Preferment too.</p>
+            <p>If yet nevertheleſs, ſome Heterogeneous Judgments may condemn me, as much for Publiſhing hereof, as for Preaching; and it may be, not altogether without Cauſe too, ſeeing I have adventured in Favour to Truth, to publiſh a Diſcourſe prepared for the Pulpit, and not for the Preſs, in its Native diſorder, without the Addition or Diminution of one Sentence: I therefore hope the Courteous Reader, will in Candor Pardon ſome rough,
+<pb facs="tcp:62302:3"/>and harſh Expreſſions, which might eaſily, but not honeſtly be amended. If ſo, I am much plea<g ref="char:EOLhyphen"/>ſed (whatever may happen) that Poſterity may know, that I never tamely conſented to the be<g ref="char:EOLhyphen"/>traying of the Liberty, Property, and Pro<g ref="char:EOLhyphen"/>ſperity of my Country. The <hi>Baſis</hi> whereof is centered in the Succeſſion of the Crown, to the Deſcendants in the Right Line.</p>
+            <p>For that Head which God and Nature hath given unto the Body Politick, as well as Natural, is better than any other, though fancied of Gold, turning on Spondyles of Silver, or whatever Chimera our Republi<g ref="char:EOLhyphen"/>cans inſinuated into their Myrmidons.</p>
+            <p>The two Houſes of Parliament, together with their pretended infinite Privileges, are but Sprouts from that great <hi>Porphyrian</hi> Tree, the Prerogative Royal; which though it be poſſible for them to ſhake, yet they can ne<g ref="char:EOLhyphen"/>ver remove without their own Eradication. Beſides, as it is fatal to ſome Bodies, when they are ſo far corrupted as to breed Serpents
+<pb facs="tcp:62302:4"/>in them, which die not, until they have de<g ref="char:EOLhyphen"/>voured that Womb, which gave them Birth, and Being: So it is a fatal ſign of a decaying Kingdom, when it breeds ſuch Vermin, which naturally corrode, and deface the Head, they muſt needs quickly confound the Sym<g ref="char:EOLhyphen"/>metry of the whole, as ſome of our ſtate Em<g ref="char:EOLhyphen"/>pericks would have done: For a Reprimand of whom I compoſed this Harangue, as the time alotted me would permit; and not a<g ref="char:EOLhyphen"/>gainſt any Proteſtant Members of a Loyal Parliament; but only againſt the exorbitan<g ref="char:EOLhyphen"/>cy of them, who ſought to bring down the Crown from Perch to popular Lure; ſo to pinion the Prerogative Royal, that they might by Parliamentary Privileges, perch in<g ref="char:EOLhyphen"/>to the Throne themſelves. Seeing Church and State in a Conflagration, I intended on<g ref="char:EOLhyphen"/>ly to point out the Incendiaries, and our dan<g ref="char:EOLhyphen"/>ger, and to throw what drops I could, to<g ref="char:EOLhyphen"/>wards the quenching of thoſe Flames; whil'ſt ſome Men then like <hi>Nero,</hi> did ſit and ſing at them.</p>
+            <pb facs="tcp:62302:4"/>
+            <p>Theſe things conſidered, I hope, notwith<g ref="char:EOLhyphen"/>ſtanding the Flouts and Slanders, (the com<g ref="char:EOLhyphen"/>mon Acclamations wherewith this hath been careſſed;) it may meet with a candid Re<g ref="char:EOLhyphen"/>ception, from Perſons of unprejudicate Judg<g ref="char:EOLhyphen"/>ments, conſidering the time when it was Preach<g ref="char:EOLhyphen"/>ed, and the Reaſons why now Printed.</p>
+            <p>It had been Supervacaneous for me (as Matters then were) to have forſaken my Subject, to have proſecuted the Text in the common Method: For there was no more need (by a Concatenation of Reaſon, and Logical Inference) to prove the Analogie of the Text, with ſome Mens Practices at that time, than it was to detain a Man to hear proved by long and elaborate Argu<g ref="char:EOLhyphen"/>ments, That his Houſe was on Fire, when he ſaw it ready to burn down about his Ears.</p>
+            <p>As the Occaſion then required (Men day<g ref="char:EOLhyphen"/>ly expecting a more formidable Parliament,) according unto my bounden Duty,
+<note place="margin">2 Tim. 4.2.</note> I did <hi>Reprove, Rebuke</hi> and <hi>Exhort.</hi>
+            </p>
+            <pb facs="tcp:62302:5"/>
+            <p>When neither Reaſon,
+<note place="margin">Sir <hi>Leol. Jenkin</hi>'s Speech in Parl.</note> Religion, nor the Law, and Oaths of the Land could prevail, all other the moſt ſober Reaſoning could be to no purpoſe; for more ſerious Sentiments were fitter for a more ſerious, and conſider<g ref="char:EOLhyphen"/>ate Age. The Theater then, if well tuned, might have prevailed more with thoſe Clink<g ref="char:EOLhyphen"/>ers, than our well ſet Pulpits. And when the Echo of every Conventicle did reſound with the Bigottry of their Demogogues, I thought it high time to declaim againſt their Colluſion: For nothing makes People more ſuſpicious of Goodneſs, than when they ſee their Miniſters, as well as Magiſtrates, to be<g ref="char:EOLhyphen"/>come Flatterers, and to follow a Multitude to do evil. But my fault hath always been (long before I had ſo publick an opportunity) that I was a Cynick, rather than a Syco<g ref="char:EOLhyphen"/>phant towards them, who with their deluding Clamors, cryed down Arbitrary Principles, yet under the form of an Ordinance, would have introduced Arbitrary Government.</p>
+            <pb facs="tcp:62302:5"/>
+            <p>To enumerate all the cogent reaſons which extorted a Conſent from me to proſtitute ſo imperfect a Diſcourſe, would ſwell it beyond the bulk of a Preface. Therefore I ſhall not perplex thee with the rehearſal of all the Mo<g ref="char:EOLhyphen"/>tives and Calumnies that occaſioned it.</p>
+            <p>The Publication hereof, being of it ſelf too honourable, though too modeſt a. Refutation of them:</p>
+            <p>Yet leſt, whilſt I ſeek to <hi>reſartiate</hi> my torn Reputation, I plunge my ſelf into greater Diſ<g ref="char:EOLhyphen"/>honour by a total ſilence; I ſhall mention ſome of the Contumelies and Cauſes.
+<note place="margin">
+                  <hi>Job</hi> 21.3.</note> 
+               <hi>Suffer me</hi> then <hi>that I may ſpeak, and after that I have ſpoken,</hi> let them <hi>mock on.</hi>
+            </p>
+            <p n="1">1. If I ſpake Truth, yet it was Truth ill ſaid, becauſe ill tim'd, and Raſhneſs in me (one of the meaneſt of them which ſerve at the Al<g ref="char:EOLhyphen"/>tar) to ſet my ſelf againſt the Torrent of the Times, making my ſelf vile in the eſteem of all ſober Perſons, (as the Minions of the Rout ſtiled themſelves) as if I had been bereaved of
+<pb facs="tcp:62302:6"/>my Intellectuals, when I undertook this Enter<g ref="char:EOLhyphen"/>prize. Whereas I am not yet ſenſible wherein I have committed any great Error, unleſs it be, for not taking any man's Advice in the matter. But had I conſulted with any of <hi>them,</hi> I might have been better ſatisfied in the whole as uſeful and orthodox, For eyes dim'd with Faction or Prejudice, ſee Truth but ill-favoured<g ref="char:EOLhyphen"/>ly. And what to expect from them, I have ſince learned by Experience, when to aggran<g ref="char:EOLhyphen"/>dize my infamy, I have been traduced to have been the libellous Author of ſome obſcene Lampoons, which the ſpurious Wit of a ſpor<g ref="char:EOLhyphen"/>tive Satyriſt could invent.</p>
+            <p>Thus by an old <hi>Romiſh</hi> Device, juggled in<g ref="char:EOLhyphen"/>to our Malecontents Heads, they firſt caſt an <hi>Odium</hi> on the moſt zealouſly Loyal, and Or<g ref="char:EOLhyphen"/>thodox Miniſters, that thereby, they might render their Labours ineffectual, by turning all they ſay into a Ridicule. Therefore I cannot expect that this will eſcape the envious Nails of ſome <hi>Capricio</hi>'s, who ſcratch at all things of
+<pb facs="tcp:62302:6" rendition="simple:additions"/>this nature, which have not a ſnack of their Democratical Idea: and the moſt authentick Quotations I have here uſed, may render me as an egregious Plagiary. Alas! ſuch Re<g ref="char:EOLhyphen"/>proaches as theſe, I am prepared to bear, being uſed to ſome of an higher nature: for, ſince by the Bill of Excluſion the Crown hath been vo<g ref="char:EOLhyphen"/>ted as a Lottery, and the Clergy have de<g ref="char:EOLhyphen"/>cryed that villanous Cheat, Calumny is be<g ref="char:EOLhyphen"/>come a large proportion of a Miniſter's Per<g ref="char:EOLhyphen"/>ſonal Dues, but payable to me by cuſtom, with other Perquiſites; which if I receive not, <hi>I</hi> am prone to think <hi>I</hi> am chous'd of plain dealing.</p>
+            <p n="2">2. <hi>April</hi> 23. 1683. immediately after Di<g ref="char:EOLhyphen"/>vine Service, in the face of the Congregation, without inſtigation or provocation on my part, one (who thought himſelf the beſt man there) derided me, and this my Sermon, with all the ſcorn and infamy he could; ſaying, That it was unreaſonable, and abominable Stuff: which <hi>I</hi> am ſure was ſeaſonable and ſui<g ref="char:EOLhyphen"/>table
+<pb facs="tcp:62302:7"/>too.
+<note place="margin">
+                  <hi>Pro.</hi> 25.11.</note> And <hi>a word fitly ſpoken, is like Ap<g ref="char:EOLhyphen"/>ples of Gold in Pictures of Silver.</hi> But when my Adverſary ſaw Railery would nothing prevail, he uſed Threats, and after much Ri<g ref="char:EOLhyphen"/>baldry, he added, <hi>In majorem terrorem,</hi> Sir or Sirra, We ſhall have a Parliament for you e're it be long. A matter I had no juſt reaſon to fear; tho I am ſorry that there was ever occaſion given, through the Error of ſome, that the Supreameſt Council of the Kingdom ſhould be miſtaken by any Scoundrel, for be<g ref="char:EOLhyphen"/>ing a Bugbear to Religion, Loyalty, and the Laws.</p>
+            <p n="3">3. I have had reaſon to fear, that there was Evil intended againſt me by the conſpi<g ref="char:EOLhyphen"/>ring League, for that I have been pitied by one, who ſhould know better than others, in theſe words, Sir, I am ſorry for you, and wiſh you knew what Enemies your Viſitation-Ser<g ref="char:EOLhyphen"/>mon hath raiſed you; and have been caution<g ref="char:EOLhyphen"/>ed by others, To prepare my ſelf to give an Account of it. To which I may add a ne<g ref="char:EOLhyphen"/>farious
+<pb facs="tcp:62302:7"/>deſign of procuring hands againſt me; which, I ſuppoſe, by the upright ſteerage of the Government dwindled into nothing. And the various Cenſures brought me of it from above ſixty miles diſtance, <hi>&amp;c.</hi> which I de<g ref="char:EOLhyphen"/>light not to remember; becauſe now I hope, it will clear it ſelf from what Fame, or Prejudice have impoſed on it.</p>
+            <p>Of all that hath been ſaid, I am not yet conſcious to my ſelf that my Crime (if any) is more than venial, and that out of the re<g ref="char:EOLhyphen"/>dundancy of Duty too.</p>
+            <p>For, the Proceedings of the Houſes of Com<g ref="char:EOLhyphen"/>mons, in the two laſt Parliaments, gave too great a Specimen of their being Patrons of Schiſm in the Church, and Sedition in the State; which might have proved incurable, if our laſt Good King, in his Princely Wiſdom, had not prevented it. I need not mention Par<g ref="char:EOLhyphen"/>ticulars; his ſaid Majeſty's Declaration hath done it for me, to the great ſatisfaction of all conſiderate men. I hope they will have better
+<pb facs="tcp:62302:8"/>Succeſſors for the future, who may retrieve their ancient Honour.</p>
+            <p>To which end it would be a happy <hi>Omen,</hi> if they would loyally agree, <hi>as in a Synaxis,</hi> to ratifie (if need ſo require) the Eſtabliſhed Religion, and to follow ſuch wholſome meaſures as their Royal Maſter ſhall preſcribe them; and not to fly in his ſacred Face, by thwart<g ref="char:EOLhyphen"/>ing his Counſel, piercing his Soul through the ſides of his Friends and Favourites, as others have done his Royal Anceſtors; and all this, to gain among their Creatures the Reputati<g ref="char:EOLhyphen"/>on of daring Perſons, and being their Coun<g ref="char:EOLhyphen"/>tries Patriots. Faulconers obſerve, that none but witleſs Buzzards are ſo raſhly daring as to ſly at their Sovereign Eagle: and the moſt ge<g ref="char:EOLhyphen"/>nerous <hi>Hero's</hi> always ſubmit to Majeſty and better Reaſon,
+<note place="margin">Norunt cui ſervi<g ref="char:EOLhyphen"/>unt leones.</note> weighing the ends of Counſel before they try or vote them. The two Hou<g ref="char:EOLhyphen"/>ſes of Parliament are to the King and King<g ref="char:EOLhyphen"/>dom like Fire and Water, the beſt of Ser<g ref="char:EOLhyphen"/>vants whilſt reſtrained within the bounds of
+<pb facs="tcp:62302:8"/>their ſerviceable Uſefulneſs; but if once they are permitted to range, and rove beyond their neceſſary reſpective bounds or limits, too ſad Experience have told us, they have been ar<g ref="char:EOLhyphen"/>bitrary, and deſtructive Maſters.</p>
+            <p>By that one attempt of the Bill of Exclu<g ref="char:EOLhyphen"/>ſion, the Commons chalked out a way for cal<g ref="char:EOLhyphen"/>cining of Allegiance, which ſeeing it might not be broken all at once, yet it ſeemed to them adviſable, that it might be done by little and little; which though it had not its end, yet it had its Complement ſo far, as to diſ<g ref="char:EOLhyphen"/>charge their <hi>Muſſulmans</hi> from their Obedience unto the Fifth Commandment: and had in<g ref="char:EOLhyphen"/>ſtigated ſome <hi>Ravilliack</hi> or <hi>Felton</hi> to have me<g ref="char:EOLhyphen"/>rited the Thanks of the prevailing Party of that Houſe, if God in his Mercy had not prevented it.</p>
+            <p n="4">4. I ſeemed as in a Prophetick Rapture to open the Curtains of Heaven, and to foretel futurities, Conſpirators and their Doom.</p>
+            <pb facs="tcp:62302:9"/>
+            <p>But as I abhor the ſpurious Brood of <hi>En<g ref="char:EOLhyphen"/>thuſiaſms,</hi> ſo do I diſown their ſuppoſitious Parent, the Spirit of Prophecy, in this Age of the Church; yet notwithſtanding, I hum<g ref="char:EOLhyphen"/>bly claim that ordinary meaſure of the Spirit, the conduct whereof God hath promiſed, and annexed unto the religious uſe of his Word and Sacraments: thereby I foreſaw, That <hi>the Expectation of the Wicked ſhould periſh.</hi>
+               <note place="margin">Pro. 10.28.</note> And as <hi>Jotham</hi> in his Parable foretold the Deſtruction of <hi>Abimelech</hi> and the men of <hi>Shechem,</hi>
+               <note place="margin">Judg. 9.</note> for their Conſpiracy and their Murder; ſo, with<g ref="char:EOLhyphen"/>out <hi>Lynceus</hi>'s, Eyes I foreſaw, that thoſe Momes of Reformation, and the latent Wiles of their ſubterrancous Cabals (diſcernable then on<g ref="char:EOLunhyphen"/>ly by influencing the Vulgar) would be diſ<g ref="char:EOLhyphen"/>covered too, if our Sins did not prevent it. And likewiſe obſerving the Series of God's Judg<g ref="char:EOLhyphen"/>ments on Rebellions in all Ages, it was no Oracle to foretel the Cataſtrophe of their Tragical Deſigns. Thus the profound
+<note n="*" place="margin">
+                  <hi>Imminen<g ref="char:EOLhyphen"/>tis tunc Ec<g ref="char:EOLhyphen"/>cleſia &amp; Reipublicae Tempeſtatis mens pro<g ref="char:EOLhyphen"/>phetis con<g ref="char:EOLhyphen"/>tubernalis praeſaga, in</hi> Mar. ccc.</note> Mr. <hi>Mede</hi> foretold our late inteſtine Troubles in Church and State.</p>
+            <pb facs="tcp:62302:9"/>
+            <p>Tho ſome are fallen, yet their <hi>Dagon</hi> is not down; for as <hi>Garnet,</hi> &amp;c. paſs for Saints in <hi>Rome,</hi> ſo do theſe for Martyrs among their Brethren of the Holy League, who do more than whiſper, that there was no Plot nor Evil intended againſt His late Majeſty, and our preſent moſt Gracious King, for no other rea<g ref="char:EOLhyphen"/>ſon, but only
+<note n="*" place="margin">
+                  <hi>Conditio<g ref="char:EOLhyphen"/>nem Prin<g ref="char:EOLhyphen"/>cipum miſe<g ref="char:EOLhyphen"/>rimam, qui<g ref="char:EOLhyphen"/>bus de con<g ref="char:EOLhyphen"/>juratione comperta non crede<g ref="char:EOLhyphen"/>retur niſi occiſis.</hi> Flav. Dom.</note> becauſe they were not mur<g ref="char:EOLhyphen"/>thered in the Conſpiracy.</p>
+            <p>Mariners obſerve, that greater Sholes of ſome.
+<note n="†" place="margin">Phocenae.</note> Fiſh appearing, portend a Storm. If too many of that Leaven ſhould reſume their Seats again, they'll preſage no Calm. <hi>For as the Howlings of Wolves in their midnight Revels declare the draught of Blood which they hunt af<g ref="char:EOLhyphen"/>ter;</hi> ſo the jovial Shoutings of Malecontents, at ſome Elections, declare the teeming hopes of a <hi>Jubilee</hi> they expect from their vaunting Suffragans: but as there is a greater appear<g ref="char:EOLhyphen"/>ance of better Stars, ſo have we greater hopes of more <hi>Halcyon</hi> days.</p>
+            <pb facs="tcp:62302:10"/>
+            <p>The <hi>Odium</hi> this hath layn under, together with the great diligence which hath been uſed to depreciate as well as ſuppreſs theſe Sheets, hath diſcouraged me from imploring the Pa<g ref="char:EOLhyphen"/>tronage of my moſt noble Friend, the Honou<g ref="char:EOLhyphen"/>rable <hi>Colonel Strangways;</hi> which I might have preſumed to do, not only on the account of his known Integrity, and approved Loyalty, even in the times of Tryal, but on the great Experience of former Favours from his gene<g ref="char:EOLhyphen"/>rous Anceſtors, as well as from himſelf and only <hi>Brother,</hi>
+               <note place="margin">
+                  <hi>Wadham Strang<g ref="char:EOLhyphen"/>ways</hi> Eſq; Governour of <hi>Port<g ref="char:EOLhyphen"/>land.</hi>
+               </note> in thoſe days when true Religi<g ref="char:EOLhyphen"/>on was deemed Treaſon, and Loyalty Re<g ref="char:EOLhyphen"/>bellion: though there was never more need of ſo great a <hi>Hero</hi> to ſcreen me from menaced dangers; I am content (whatever my Deſti<g ref="char:EOLhyphen"/>ny may be) that I have not proſtituted the Honour of ſo worthy a Friend unto ſo beſpat<g ref="char:EOLhyphen"/>tered a Treatiſe. For writing of which, though I have been blamed for laying aſide my Po<g ref="char:EOLhyphen"/>licy, yet I have not heard, that I have been traduced for quitting my Loyalty, or Inte<g ref="char:EOLhyphen"/>grity.</p>
+            <pb facs="tcp:62302:10"/>
+            <p>What I have here alledged in my Vindi<g ref="char:EOLhyphen"/>cation, I hope may be ſufficient: for, I think it not conſiſtent with Chriſtian Prudence to ſay all that may be ſaid, though in my own Defence, leſt naked Truth, like the bright Sun unto ſore Eyes, make the formal Hypo<g ref="char:EOLhyphen"/>crites ſtare and ſtartle, who whilſt cheriſhed paſs for ſerious Penitents; but if gauled, they'll appear neither cordial Loyaliſts, nor true Conformiſts.</p>
+         </div>
+      </front>
+      <body>
+         <div type="sermon">
+            <pb facs="tcp:62302:11"/>
+            <pb n="1" facs="tcp:62302:11"/>
+            <head>LUKE 20.14. <hi>But when the Husbandmen ſaw him, they reaſon<g ref="char:EOLhyphen"/>ed among themſelves, ſaying, This is the Heir, Come, let us kill him, that the Inheritance may be ours.</hi>
+            </head>
+            <p>AS our bleſſed Lord taught in the Temple, the <hi>Jew<g ref="char:EOLhyphen"/>iſh Sanhedrim</hi> came unto him, inſidiouſly queſti<g ref="char:EOLhyphen"/>oning his Authority. But he, who knew their thoughts, anſwered not their Words. <q rend="inline">But con<g ref="char:EOLhyphen"/>founded them with a Queſtion concerning <hi>John</hi>'s Baptiſm (though at other times, we find that he aſſerted his own Authority.)</q> To which they, after they had reaſoned among themſelves, falſly replyed, That they could not, that is, they would not, tell him whence it was. <hi>And then Jeſus ſaid unto them, neither tell I you by what Authority I do theſe things.</hi>
+            </p>
+            <p>Afterwards he was pleaſed in a Parable to ſhew unto them what he was, by telling plainly what they, and their Progeni<g ref="char:EOLhyphen"/>tors were, and whereunto their Intentions did tend.</p>
+            <p>The Parable is of a certain <hi>Husbandman, who planted a Vine<g ref="char:EOLhyphen"/>yard, and let it forth to Husbandmen, and went into a far Country for a long time:</hi> He went voluntarily, he was not driven from his own forcibly, as others have been.</p>
+            <p>
+               <hi>At the ſeaſon he ſent his Servants unto them for the Fruit of the Vineyard; but they beat, and ſhamefully entreated, and wounded thoſe Servants he ſent unto them, and ſent them away empty. But then the Lord of the Vineyard ſaid, What ſhall I do? I will ſend my beloved Son, it may be they will reverence him. But when the Hus<g ref="char:EOLhyphen"/>bandmen
+<pb n="2" facs="tcp:62302:12"/>ſaw him, they reaſoned among themſelves, ſaying, This is the Heir, Come, let us kill him, that the Inheritance may be ours.</hi>
+            </p>
+            <p>Our Lord was pleaſed to ſpeak unto them parabolically, to the end he might fulfil the Scriptures, confound their Wiſ<g ref="char:EOLhyphen"/>dom, and leave them without excuſe.</p>
+            <p>Therefore he doth here in a ſublime manner declare his own Divinity, by repreſenting unto them their paſt Deeds, and Deſigns to come: Their Fathers impiety, and their own in<g ref="char:EOLhyphen"/>tended cruelty. So that as plainly as they ſaw his Humanity, they might conceive of his Divinity.</p>
+            <p>By this Parable we underſtand,</p>
+            <p n="1">1. The great Love God had for the <hi>Jews,</hi> who was pleaſed to become their Lord in chuſing of them to be his Vineyard. This his Vineyard he fenc'd;
+<note place="margin">Mat. 21.33.</note> 
+               <hi>He digged a Wine Preſs, and built a Tower in it:</hi> He did all that could be done, that he might make it fruitful. But after all that expence of Toil and Trea<g ref="char:EOLhyphen"/>ſure,
+<note place="margin">Iſa. 5.2.</note> 
+               <hi>He looked that it ſhould bring forth Grapes, and it brought forth wild Grapes.</hi>
+            </p>
+            <p>A Vineyard which was not only fruitleſs, but expenſive to the Owner: fruitfully full of Thorns to crown him, perfidious Friends and ungrateful Enemies, which commonly are the Train of too merciful and too bountiful Princes.</p>
+            <p n="2">2. We may conſider here alſo, the irreligious ingratitude of the <hi>Jews,</hi> who were ſo far from giving their Lord any return of Fruit according unto his Love, and care of them, that they con<g ref="char:EOLhyphen"/>ſulted the contrary: And that not ſo weakly as to Exclude him only his Lawful Birthright; but to make ſure work with him, they Voted his Death.</p>
+            <p>The Text contains the manner how they reſolved, and the matter they reſolved on. <hi>This is the Heir,</hi> &amp;c. It was the final Reſolution of theſe Traiterous Politicians, who were not bred ſo many Years in the <hi>Jews</hi> Politick School, their long Parliament, the <hi>Sanhedrim,</hi> as to conclude on ſo weak a Title, as by an Act of Excluſion to ſettle on them and theirs, the Prerogatives Roy<g ref="char:EOLhyphen"/>al of their uſurped Vineyard. Knowing that ſuch an unjuſt Ti<g ref="char:EOLhyphen"/>tle,
+<pb n="3" facs="tcp:62302:12" rendition="simple:additions"/>would not become ſo ſtrong as a Weavers, much leſs as a Gor<g ref="char:EOLhyphen"/>dian knot, neither would it need the Sword of an <hi>Alexander</hi> to reſcind it: For it would unlooſe of its own accord</p>
+            <p>For Laws that are founded on Blood, Perjury, Injuſtice, Treaſon or Rebellion, are abrogated the firſt day of their Pro<g ref="char:EOLhyphen"/>mulgation: For it's not at the Peoples choice whether they will obſerve ſuch Statutes or no: For that Law, which is contrary unto the Law of God, doth tie a man only to the Penalty; it binds not his Conſcience at all to the Performance.</p>
+            <p>For the better underſtanding of the Text, conſider;</p>
+            <p>By <hi>Vineyard</hi> is meant the Church, and State of the <hi>Jews. By Lord of the Vineyard,</hi> God Almighty, who was pleaſed himſelf to become their <hi>Lord</hi> and <hi>King,</hi> and to chuſe them from among all the Nations of the Earth to become his People.</p>
+            <p>By <hi>Husbandmen,</hi> all ſorts of Men among the <hi>Jews,</hi> who were bound to do their Lord Service, in their reſpective places, both in Church, and State, as he had placed them; but more parti<g ref="char:EOLhyphen"/>cularly the chief Prieſts, Scribes and Elders.</p>
+            <p>
+               <hi>By thoſe his Servants which were ſent unto them,</hi> underſtand the <hi>Prophets,</hi> and <hi>Meſſengers</hi> of God, who from time to time were ſent unto the <hi>Jews,</hi> to call them to their own Work, and the Work of their King: That is to repent, and practiſe a better Obedience, and not that every Ploughman ſhould become States-Man; nor every confident Mechanick put on the Ephod, nor intermeddle with the Affairs of Church, or State, who were not called thereunto. But the <hi>Jews</hi> were for Stoning, and Killing of thoſe who were ſent unto them, though they came for their good, to reduce them to a better underſtanding, and more honeſt purpoſes.</p>
+            <p>
+               <hi>By the beloved Son, who was ſent;</hi> the Son of God, whom he was pleaſed at laſt to ſend unto thoſe Rebellious, and Ungrate<g ref="char:EOLhyphen"/>ful Husbandmen.</p>
+            <p>By <hi>Heir,</hi> the ſame with Son, differing here only in the Re<g ref="char:EOLhyphen"/>lation to the Lord who ſent him.</p>
+            <p>
+               <hi>Come let us kill him, that the Inheritance may be ours:</hi> Is ſo well underſtood of every one who has read the Goſpel of our Lord
+<pb n="4" facs="tcp:62302:13"/>and Saviour's Paſſion, or its pourtraicture, the Martyrology of our <hi>Royal Martyr,</hi> that it needs no Explanation.</p>
+            <p>Our dear Saviour, though he foreknew the Determination of theſe wicked Husbandmen, yet as his Father was pleaſed to ſend, ſo was he to be ſent, and to fulfil the Prophecies, and Predictions that related to him. So he voluntarily came unto them, that he might become the Sacrifice for our Redemption.</p>
+            <p>And then, ſo ſoon as the <hi>Husbandmen</hi> ſaw him, they reſolv<g ref="char:EOLhyphen"/>ed, (for I ſuppoſe they made no long delay, leſt they might loſe their opportunity, and Chriſt the Heir might have paſſed over <hi>Jordan,</hi> their Countreys <hi>Tweed,</hi> and then they might be for<g ref="char:EOLhyphen"/>ced to change their deſign'd Meaſures) to make an Act of Ex<g ref="char:EOLhyphen"/>cluſion when they might kill him. Therefore, <hi>When the Hus<g ref="char:EOLhyphen"/>bandmen ſaw him, they reaſoned among themſelves.</hi>
+            </p>
+            <p>This their Deſign was not ſo light and frivolous, as that they ſhould enterprize it raſhly, at all Adventures; therefore they went conſiderately to work. They reaſoned, that they might ripen their Treaſon, and bring it to its deſigned end. There<g ref="char:EOLhyphen"/>fore they convened by way of Aſſembly, and were the <hi>San<g ref="char:EOLhyphen"/>hedrim</hi> or <hi>Jewiſh</hi> Parliament, Theſe parli'd and plotted how they might bring High-Treaſon to paſs. But yet it was <hi>Conventus Malorum,</hi> a Conventicle they held in a Parliamenta<g ref="char:EOLhyphen"/>ry way; wherein they contrived this bloody Expedient, To kill the Heir that they might enjoy his Inheritance. They were loth to part with that pleaſant Vineyard, they had ſo long uſurp<g ref="char:EOLhyphen"/>ed: Nay, they, who were ſo unjuſt to their Landlord, as not to yield him any of the Fruit, were very unlikely to yield up the Vineyard; But what they had gotten by Murder, and Se<g ref="char:EOLhyphen"/>dition, they were reſolved to keep by Blood, and Treaſon; ſo accordingly they voted, and their Vote we have here in <hi>Termi<g ref="char:EOLhyphen"/>nis, This is the Heir, Come, let us kill him.</hi>
+            </p>
+            <p>Verily! a very fine Vote for Tenants, and Subjects to paſs againſt their Liege Lord, and Soveraign. It's obſervable, that a Parliament of Traytors, or a <hi>Sanhedrim</hi> of Conſpirators ne<g ref="char:EOLhyphen"/>ver yet deſigned good to Prince or People; for when ſuch
+<pb n="5" facs="tcp:62302:13"/>meet, their reaſonings tend only to turn the Commonweal in<g ref="char:EOLhyphen"/>to a Common woe; for Reaſon nor Religion hath neither Tongue nor Ear in ſuch Aſſemblies. For I do not find, that ever our Saviour had ſo much fair-quarter allowed him by this great Council of the <hi>Jews,</hi> as to be heard in his own defence; Though <hi>he was their great King, the everlaſting God, the Prince of peace.</hi> Heard indeed he was, but it was as people uſe to hear Sermons; that is, with a deaf ear: his Words were not weigh<g ref="char:EOLhyphen"/>ed, nor his Reaſons conſidered. I confeſs that he was queſti<g ref="char:EOLhyphen"/>oned, and buffetted too, to ſerve as a pretext for the Rulers, and as a blind for the people, and led forth alſo to confront the Witneſſes; but he was not heard according to the merits of his cauſe, not acquitted as he ought, but condemned as they pleaſed. This is obſervable here, that the Mercy and Juſtice of the <hi>Jews</hi> then, did exceed that of ſome Chriſtians now. But in this, as it was their deſire, the Ebullition of their malice, ſo it was his Choice too; for he was born to this end, and in it, his Will was done in Earth, as it is in Heaven. There was no fault found in him;
+<note place="margin">Joh. 18.14</note> but it was judged <hi>expedient that one ſhould dye for the people.</hi> That is, <hi>Caiaphas,</hi> one of the leading Members in the <hi>Sanhedrim,</hi> made a Speech there,
+<note place="margin">Dr. <hi>Ham.</hi> on <hi>Joh.</hi> 11.50.</note> and grounded this Ex<g ref="char:EOLhyphen"/>pedient on a politick Maxim they had, That they might do any thing to keep the people from Deſtruction, which they feared from the <hi>Romans,</hi> to whom they were then ſubject. And this they feared, by reaſon of the Admiration the people had him in for his Miracles;
+<note place="margin">Dr. <hi>Ham.</hi> on <hi>Joh.</hi> 11, 48.</note> they feared that he who profeſſed himſelf the <hi>Meſſias,</hi> would become their King, which the <hi>Romans</hi> would look on as a Rebellion, and ſo tempt them to come with an Army, and deſtroy them. It was this politick Reaſon prevailed in the great Council of their Nation, againſt Juſtice and Equity, their Religion, Laws, and Oaths; yea all that was ſacred, not only to vote away their Lord's Inheritance, but his Life too.</p>
+            <p>Theſe Mechanicks having gotten his Royal perſon into their hands, <hi>they ſaid, This is the Heir, come, let us kill him.</hi>
+            </p>
+            <pb n="6" facs="tcp:62302:14"/>
+            <p>Theſe very men, who it's likely were the Heads of popular Factions in their reſpective Countries, were ſome of them, who e're while (as it were) courted him with <hi>Hoſanna</hi> in the high<g ref="char:EOLhyphen"/>eſt, who when they had gotten hold of him, they were for a <hi>Crucifie him, Crucifie him.</hi> Such is the Viciſſitude of popular Favour, that theſe very men, who courted him moſt when he was riding into <hi>Jeruſalem,</hi> forſook him ſooneſt when he was led into <hi>Jeruſalem.</hi> Such commonly is the fate of unfortunate Prin<g ref="char:EOLhyphen"/>ces,
+<note place="margin">Tacit.</note> who being once fallen into the diſ-favour of the <hi>profanum vulgus; Tam benefacta quam malefacta premunt;</hi> they rake up their former Favours in Oblivion, and reckon their good deeds, as well as bad, into the number of Oppreſſions. And then they are eaſily led by their <hi>Tub Orators,</hi> and deſigning <hi>Leaders,</hi> to know no pity, nor to ſhew mercy towards them. What may be ſaid or done, be it true or falſe, ſhall be ſaid, and done by them, to bring their ends to paſs: but can we ever expect truth from ſuch, who have forſaken the Faith? If their Tongues were any ſlander, the Vertues of the beſt and moſt compaſſionate Princes ſhould ever be ſullied by them.</p>
+            <p>Thus Chriſt, the King of the <hi>Jews,</hi> when he came to fulfil, was charged to diſannul the Law, to change their Religion, <hi>and the Cuſtoms which</hi> Moſes <hi>delivered them.</hi>
+               <note place="margin">Acts 6.14.</note> When they had nothing to alledge againſt Chriſt truly, they deviſed ſomewhat falſly: by which they hoped to extenuate their Treaſon, by imputing evil to Chriſt, who never did any. But his Innocen<g ref="char:EOLhyphen"/>cy quickly appeared, to his own Vindication, and their Con<g ref="char:EOLhyphen"/>fuſion:
+<note place="margin">Luke 23.14.</note> for <hi>Pilate</hi> declared in his defence, ſaying, <hi>I have exa<g ref="char:EOLhyphen"/>mined him before you, and have found no Fault in this man touching thoſe things whereof ye accuſe him:</hi>
+               <note place="margin">v. 23.</note> yet notwithſtanding they were earneſt to have him crucified;
+<note place="margin">v. 33.</note> 
+               <hi>And they crucified him and the Malefactors;</hi>
+               <note place="margin">v. 31.</note> 
+               <hi>one on the right-hand, and the other on the left. But if they did theſe things in a green tree, what ſhall be done in the dry?</hi> So according to their Proverb, Utter deſolation followed this their Treaſon. So true a Prophet was Chriſt in this Parable to foretel to the <hi>Jews</hi> both his own Sufferings, and their Cru<g ref="char:EOLhyphen"/>elty
+<pb n="7" facs="tcp:62302:14"/>and Deſtruction. For according unto his Word at the time appointed,
+<note place="margin">Luk 20.16</note> 
+               <hi>The Lord of the Vineyard came and deſtroyed theſe Husbandmen, and gave the Vineyard to others.</hi> Thus commonly the Wheel of Treaſon breaks the Necks of them who at firſt turned it. Their malevolent Reaſonings brought on their own Pates direful Concluſions, even their own Deſtruction. So true is it, that he who votes for Treaſon, gives his Voice for his own death; which will appear, not only in <hi>Judas,</hi> who be<g ref="char:EOLhyphen"/>trayed, and the <hi>Jews,</hi> who killed their King; but in all thoſe Traitors and Conſpirators, who have at any time deviſed the Death of their lawful Princes and Sovereigns, few, or none, ever came without Ignominy and Sorrow unto their Graves. Of which there are many Inſtances.</p>
+            <p>In the <hi>Jews</hi> Vote againſt our Saviour, we may obſerve:</p>
+            <p n="1">1. Their Confeſſion who Chriſt was. They acknowledged <hi>That he was the Heir.</hi> Surely he was no doubtful or preſumptu<g ref="char:EOLhyphen"/>ous Heir, for we do not find that ever they denied him his right to the Vineyard, or Kingdom of <hi>Iſrael;</hi> for that in their Vote here, they confeſſed and declared, as in a full Parliament, <hi>Ne<g ref="char:EOLhyphen"/>mine contradicente,</hi> that Chriſt was the <hi>Heir.</hi>
+            </p>
+            <p n="2">2. We may conſider the Condition or Quality of thoſe Con<g ref="char:EOLhyphen"/>ſpirators, they were <gap reason="foreign" resp="#OXF">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, <hi>Husbandmen,</hi> or Farmers, meer Mechanicks, a word of large Extent. Such it may be who were bred to the Plough and the Spade. Whoſoever had cunning enough to plot againſt, and Treachery to betray the rightful Heir, and Covetouſneſs enough to ſeize upon his Inheritance, were ſufficiently capacitated to be Members of this <hi>Jewiſh</hi> Par<g ref="char:EOLhyphen"/>liament, or <hi>Sanhedrim.</hi>
+            </p>
+            <p n="3">3. Here is their unanimous Agreement, together with their final Reſolve: <hi>Come, let us kill him: Come,</hi> here, is not the voice of their Precept of calling to this their Aſſembly; but it is their
+<note n="†" place="margin">Celeuſmae ſeu clamor ad Theolo<g ref="char:EOLhyphen"/>gos Hierar<g ref="char:EOLhyphen"/>chiae Angli<g ref="char:EOLhyphen"/>canae.</note> 
+               <hi>Celeuſma,</hi> Shout, Noiſe, or Watch-word, to call together all their non-conforming, but yet conſenting Brethren in this, and as many others as they could too, to joyn hands, and aſſiſt with them at this Regicide, the Murder of the Heir.</p>
+            <pb n="8" facs="tcp:62302:15" rendition="simple:additions"/>
+            <p>Now, verily, all thoſe Guiles of <hi>God, Religion,</hi> and the <hi>Good Old Cauſe,</hi> diſappeared, when they had thus brought their Plot to its maturity. Such Shadows then vaniſh of their own accord.</p>
+            <p n="4">4. Here's their wicked Inſtigation, to this their traiterous Reſolution; <hi>That the Inheritance might be theirs.</hi> I ſuppoſe that theſe wicked Conſpirators had ſome hopes of eaſing themſelves from the <hi>Roman</hi> Yoke, by turning Monarchy into Democracy. This ſeems to me probable, for that they aſpired to the Vine<g ref="char:EOLhyphen"/>yard, and Birth-right of their Lord and Sovereign: for they believed, that if they had killed the rightful Heir, that the <hi>Ro<g ref="char:EOLhyphen"/>mans,</hi> who had but an uſurped Title, which they got, and kept by the Sword, might by better ſteel be taken, and maintained from them.</p>
+            <p>This temporal Inheritance of our Lord that he was born to,
+<note place="margin">Mat. 2.2.</note> was only the Kingdom of the <hi>Jews:</hi> and this was all that theſe <hi>Husbandmen</hi> did covet by killing of Chriſt, the rightful <hi>Heir.</hi> But if we conſider his juſt Dominions, according unto his In<g ref="char:EOLhyphen"/>auguration, and God's Deſignation, then we find not only the Land of <hi>Jury</hi> did belong unto him,
+<note place="margin">Heb. 1.2.</note> but the whole World too. But theſe <hi>Husbandmen,</hi> the <hi>Jews,</hi> aimed at the Partition, and enjoyment of his Kingdom of <hi>Judea</hi> only: and therefore as Re<g ref="char:EOLhyphen"/>publicans uſe to do, they were reſolved, though they waded through Blood and Treaſon, to attain that <hi>Inheritance.</hi>
+            </p>
+            <p>Thus in hopes to exchange their Mattocks and Shovels for Crowns and Scepters (for in a Commonwealth moſt States-men prove not only as Kings, but are Tyrants too) every one <hi>Reho<g ref="char:EOLhyphen"/>boam</hi>-like, makes his Little-ſinger heavier than the rightful Heir's Loins:
+<note place="margin">
+                  <hi>Heyl. Geog.</hi> 206.</note> for what is gotten by Rebellion, muſt be kept by Force and Treaſon. <q rend="inline">Hence it is ſaid of <hi>Venice,</hi> the beſt Free-State in the World, that Chriſtians live better under the <hi>Turk</hi> than under the <hi>Venetians.</hi>
+               </q>
+               <note place="margin">Prov. 28.2.</note> And <hi>Solomon</hi> tells us, that it is <hi>for the Tranſgreſſion of a Land,</hi> that <hi>many are the Princes thereof.</hi> Yet notwithſtanding, how many are there among us that court their own Infelicity.</p>
+            <pb n="9" facs="tcp:62302:15"/>
+            <p>Our Lord himſelf was the only begotten of his Father, the true <hi>Heir</hi> of the Crown of <hi>Jury,</hi> who in this Parable gave the Malecontents of his own Kingdom ſuch divine Warnings, as might melt them into pity towards him; but their wicked Hearts were ſo far from being mollified, that they were the more enraged: and tho they ſaw his Miracles, Signs, and migh<g ref="char:EOLhyphen"/>ty Wonders, that he wrought among them, and by them ſaw, that he was the very ſame that was ſhadowed forth unto them in this Parable; yet they did as it were ſhut their eyes, and ſtop their ears, that they might not ſee with their eyes, and underſtand with their hearts, ſo that they might perſevere in their Rebellion againſt him. Nay they could not but confeſs (had not the Fear of <hi>Caeſar</hi> ſupplanted the Fear of God) That theſe very Works and Sufferings, that Chriſt did undergo, ſhould be performed by their expected <hi>Meſſias</hi> and King; for that he fulfilled all that was foretold of him. So that they had not ſufficient Excuſe for doubting, much leſs for denying him to be their anointed <hi>King, Prieſt,</hi> and <hi>Prophet.</hi>
+            </p>
+            <p>By his Miracles he aſſerted to them his Divinity, by his Suf<g ref="char:EOLhyphen"/>ferings, his Humanity. He gave himſelf unto them to be a pat<g ref="char:EOLhyphen"/>tern and example of all Vertue and holy living; and he gave his Goſpel, the ſupremeſt and exacteſt Law that ever was, to teach them to conform themſelves to his Example: ſo that his Words, as well as his Works, were enough to convince them, that he was the rightful Heir. And verily, a man might confi<g ref="char:EOLhyphen"/>dently believe, that none could be more ignorant among them who was the rightful <hi>Heir</hi> of their Vineyard or Kingdom, than we can be ignorant who is the <hi>Heir</hi> of our <hi>Britiſh</hi> Crown and Diadem.</p>
+            <p>But we read, that ſome, had they known what they did, <hi>would not have crucified the Lord of Glory.</hi> And St.
+<note place="margin">1 Cor. 2.8. Acts 3.17.</note> 
+               <hi>Peter</hi> told the <hi>Jews,</hi> that through <hi>Ignorance</hi> they killed Chriſt, as did alſo their <hi>Rulers.</hi>
+            </p>
+            <p>Doubtleſs, the <hi>Literati</hi> among the <hi>Jews</hi> knew well enough whom they conſpired againſt. But here I underſtand it of the
+<pb n="10" facs="tcp:62302:16" rendition="simple:additions"/>illiterate, who were likely among the Scribes and Elders, as well as Commons of <hi>Iſrael:</hi> for there were in <hi>Iſrael,</hi> as well as <hi>Nineveh,</hi> ſuch who could not diſcern between their right-hand and their left. And of theſe, it's very likely ſome of the rich were advanced to be of the <hi>Sanhedrim,</hi> though not for their Wiſdom, yet for their Weakneſs, that they might carry on the Deſigns of their Patriots, which men of Wiſdom and Courage would never have done. And I ſuppoſe (but it's only my Sup<g ref="char:EOLhyphen"/>poſition) that the chooſing into the <hi>Sanhedrim,</hi> might be much like to the Election of the new Pope in the <hi>Roman</hi> Conclave, and Members into moſt of our Diets and Councils in <hi>Chriſten<g ref="char:EOLhyphen"/>dom;</hi> that is, by Bribery and Rewards: the Spit and the Spi<g ref="char:EOLhyphen"/>got, Promiſes and Threats, make the new Pope, the Burgeſſes and Burgomaſters, in moſt places in <hi>Europe.</hi> If they who were choſen among the <hi>Jews</hi> had furious Zeal enough for their own Party, and Leaders, to exalt themſelves, and to pull down the Crown; they had Wit enough, though not Wiſdom, to dive into the merit of the Cauſe. Such as theſe are giddy enough al<g ref="char:EOLhyphen"/>ways to vote againſt the <hi>Heir,</hi> alas! though they are ignorant wherein ſuch Votes may end. Their fiery Zeal is ſuch, that if they are bid go, they'll run into Murder, and Treaſon too. Of this ſort were alſo the Drudges, Vaſſals, or Servants of the Huſ<g ref="char:EOLhyphen"/>bandmen, who looked no farther than the Command of their Maſters or Leaders. Of which ſort there are too many among us, who have after the ſame manner diſturbed the Quiet of this our <hi>Iſrael;</hi> who with <hi>Ignatius Loyala</hi> account ſuch bloody Obedience better than Sacrifice.</p>
+            <p>As <hi>Abſalom</hi> in his Conſpiracy,
+<note place="margin">2 Sam. 15.6 <hi>v.</hi> 11.</note> by his Blandiſhments, <hi>ſtole the hearts of the men of Iſrael;</hi> and it's obſervable, <hi>That with him went two hundred men out of</hi> Jeruſalem, <hi>that were called, and they went in their ſimplicity, and they knew not any thing:</hi> ſo, how ma<g ref="char:EOLhyphen"/>ny are there among us, who follow the new Deformers? but alas! they follow them in the ſimplicity of their hearts, not knowing any thing, being ſo amazed with the ſpecious preten<g ref="char:EOLhyphen"/>ſions of Religion and Loyalty, that they cannot ſee what is ei<g ref="char:EOLhyphen"/>ther;
+<pb n="11" facs="tcp:62302:16" rendition="simple:additions"/>for they zealouſly adviſe the overthrow of both, by con<g ref="char:EOLhyphen"/>ſulting the Excluſion of the <hi>Heir</hi> of our <hi>Britiſh</hi> Vineyard.</p>
+            <p>Such brave Fellows as theſe are the only <hi>Husbandmen</hi> to be<g ref="char:EOLhyphen"/>come Members in a Fanatick Parliament: and their ignorant Followers would ſerve as well for Church-wardens too. My Reaſon is, Becauſe that the one as well as the other, have ſuch ſeared Conſciences, that they can violate Religion, Loyalty, Laws, and Oaths, without remorſe, with this <hi>Salvo</hi> (if they gain not the better in the cauſe) they'll ſay with the <hi>Jews,</hi> they did it ignorantly.</p>
+            <p>But I ſhall prove that ſome of the <hi>Jews</hi> could not be igno<g ref="char:EOLhyphen"/>rant who Chriſt was, whatever they might pretend to the con<g ref="char:EOLhyphen"/>trary.</p>
+            <p>They knew that he was deſcended from the Royal Line, from the Loins of <hi>Abraham,</hi> and the Seed of <hi>David.</hi> But this com<g ref="char:EOLhyphen"/>pared with his other Royalties, was but an Act of Chriſt's De<g ref="char:EOLhyphen"/>gradation, proceeding from his Humiliation,
+<note place="margin">Iſa. 9.7. v. 6.</note> 
+               <hi>to ſit on the Throne of</hi> David: for <hi>he was the mighty God, the everlaſting Father, the Prince of Peace. His Birth was</hi> foretold to them of whom he ſhould be born; the very place where, and the time when,
+<note place="margin">Micah 5. <hi>Flav. Dom.</hi> cauſed the line of <hi>David</hi> to be diligently ſought out, and extinguiſhed, for fear leſt he were yet to come out of the Houſe of <hi>David</hi> which ſhould enjoy the Kingdom. <hi>Anal. Caeſar. Rom.</hi>
+               </note> even when the whole World was taxed. And as I have read, that Chriſt himſelf ſtands on the Tax-Roll with <hi>Joſeph</hi> and <hi>Mary.</hi>
+            </p>
+            <p>And it was by the very Providence of God,
+<note place="margin">
+                  <hi>Ham.</hi> on <hi>Luke</hi> 2.</note> that <hi>Mary</hi> went from <hi>Nazareth</hi> to <hi>Bethlehem</hi> to be enrolled; that ſhe ſhould there fall in Travel, and bring forth, that ſo the Seed of <hi>Da<g ref="char:EOLhyphen"/>vid,</hi> and Branch of <hi>Jeſſe,</hi> that was conceived in <hi>Nazareth,</hi> ſhould be born in <hi>Bethlehem</hi> where <hi>Jeſſe</hi> and <hi>David</hi> was born.</p>
+            <p>The Stars of Heaven pointed to him,
+<note place="margin">Mat. 29. Luke 2.10</note> and the Angels did miniſter unto him, and proclaimed his Incarnation. All their great and good Kings were figures of this King. <hi>David</hi> ſpake of him, ſaying, <hi>Lo, I come:</hi>
+               <note place="margin">Pſ. 40.7.</note> 
+               <hi>in the Volume of the Book it is
+<pb n="12" facs="tcp:62302:17"/>written of me:</hi> that is, the whole Volume of Scripture did te<g ref="char:EOLhyphen"/>ſtiſie of him; which becauſe <hi>it was read unto them every Sab<g ref="char:EOLhyphen"/>bath-day,</hi> they could not chooſe but know that he was their King: for as Face anſwereth Face, ſo Chriſt anſwered, and fulfilled all thoſe Types, Figures, and Prophecies that had re<g ref="char:EOLhyphen"/>lation to him. Beſides, we have <hi>Pilate</hi>'s Teſtimony, when the <hi>Jews</hi> cried out,
+<note place="margin">Jo. 19.15.</note> 
+               <hi>Crucifie him, Crucifie him.</hi> What! ſaid he, <hi>ſhall I crucifie your King?</hi> To which I may add, the plain Confeſ<g ref="char:EOLhyphen"/>ſion of the <hi>Husbandmen</hi> here in the Text, ſaying, <hi>This is the Heir:</hi> no ſuppoſitious or preſumptive Heir. There was no one living betwixt the Crown and him, if it might deſcend in its right line; for this is ſpoken here, as in the Perſon, ſo in the ſenſe of the whole Nation of the <hi>Jews,</hi> none could deny it. Whence we may obſerve, that there was more truth in the con<g ref="char:EOLhyphen"/>ſpiring <hi>Jews,</hi> who killed Chriſt, than is among many of our Republicans now, for that they did not charge his Birth falſly.</p>
+            <p>But as the <hi>Jews</hi> Confeſſion added to the Confirmation of our <hi>Saviour</hi>'s Title, ſo their ſo full Acknowledgment of him, add<g ref="char:EOLhyphen"/>ed to his Grief and Sorrow; that they who were his own Te<g ref="char:EOLhyphen"/>nants, Subjects, and Servants, ſhould plot and conſpire his Death, and that not raſhly, but adviſedly, by the ſupremeſt Council of his Kingdom. If we enquire where this ſo horri<g ref="char:EOLhyphen"/>ble Treaſon was hatched? We ſhall find that it proceeded from their Factions and Diviſions which aroſe from their Luſts. Schiſm in the Church, and Sedition in the State, have but one Parent, that is a Furious and Fanatick Zeal, which have ever infeſted the Church of God in all Ages, and have ſpilt the blood of her Servants, from the blood of <hi>Abel</hi> unto the blood of <hi>Za<g ref="char:EOLhyphen"/>charias,</hi> which periſhed between the Altar and the Temple; and from the Blood of <hi>Zacharias</hi> unto the blood of our <hi>Meſſias,</hi> and from thence unto the blood of our Royal Martyr. And as <hi>Zacharias</hi> was ſlain by the <hi>Jewiſh</hi> Zealots, <gap reason="foreign" resp="#OXF">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, in the midſt of the Temple; ſo Chriſt, and our dear and dread Sove<g ref="char:EOLhyphen"/>reign, were ſlain in the midſt of their own Kingdoms, by the Zeal and Treaſon of their own Subjects. And, to our Grief
+<pb n="13" facs="tcp:62302:17"/>be it ſpoken, they reſt not there, but as <hi>Herod</hi> when he perſe<g ref="char:EOLhyphen"/>cuted the Church, <hi>and killed</hi> James <hi>the Brother of</hi> John <hi>with the Sword; and becauſe he ſaw it pleaſed the</hi> Jews,
+<note place="margin">Acts 12.1, 2, 3.</note> 
+               <hi>he proceeded farther to take Peter alſo.</hi>
+            </p>
+            <p>Thus our Zealots having killed the Father, they proceed to take the Sons alſo. This too plainly appears, for that they are come as near the <hi>Jews</hi> Vote in the Text, as under the preſent cir<g ref="char:EOLhyphen"/>cumſtance of things they durſt. They are only come yet to vote the <hi>Heir</hi> out of his Vineyard; but if that Act ſhould once paſs the great <hi>Sanhedrim</hi> of our Nation, you ſhall quickly then ſee, what they will be at next. Then will follow, as in its fit time, <hi>Come,</hi> let us once more drive away our great <hi>Landlord</hi> into a far Country again, and then kill the <hi>Heir,</hi> that the <hi>Inheritance</hi> may be ours. Alas! there is no wild-fire ſo raging as an Enthu<g ref="char:EOLhyphen"/>ſiaſtick Zeal; it hurries men on, againſt all ſenſe and reaſon,
+<q>
+                  <l>
+                     <g ref="char:V">Ʋ</g>t mala quem ſcabies, &amp; morbus regius urget,</l>
+                  <l>Aut fanaticus error.—
+<note place="margin">Hor. de Art. Poet.</note>
+                  </l>
+               </q> It ſtings men to Madneſs, it drives them on to horrible Plots and miſchievous Treaſons, even to their own Deſtruction.</p>
+            <p>This (praiſed be God) we have ſeen verified, that that Trea<g ref="char:EOLhyphen"/>ſon which was hatched in Hell (by God's Bleſſing on the Wiſ<g ref="char:EOLhyphen"/>dom of our <hi>Solomon</hi>) was blaſted on Earth, to the great com<g ref="char:EOLhyphen"/>fort of him and us. And I have ſtill ſome hopes, that God will yet deliver us; but my Fear exceeds my Hopes.</p>
+            <p>My Hopes are grounded on this:</p>
+            <p n="1">1. Becauſe that according unto a Maxim in Politicks, That Plots in the State ſhould be uſed as Stratagems in War; that is, they are not fit for a ſecond Uſage, becauſe known Plots are commonly counter-plotted: and we ſee, both by the Votes and Practices of our late grave Senators, that they climb towards the Throne by the ſame ſteps their uſurping Tutors gained the <hi>Inheritance.</hi> They pointing where they will ſtrike again, may teach us, if we are not beſotted, how we may ward that blow.</p>
+            <pb n="14" facs="tcp:62302:18"/>
+            <p n="2">2. A ſecond ground I have for theſe Hopes, I ſhall give you in the Words of the Pious and Reverend Biſhop <hi>Brownrig,</hi> taken out of his Sermon on <hi>Haggai</hi> 2.23.</p>
+            <p>The Word of God muſt be fulfilled: therefore ſaid he long ago; Nobility, <hi>i. e.</hi> The Prime and Top of the <q rend="inline">Nobility is the Quarry out of which God raiſes the Captain of his Peo<g ref="char:EOLhyphen"/>ple;
+<note place="margin">
+                     <hi>Eccl.</hi> 10.17.</note> 
+                  <hi>Bleſſed art thou, O Land, when thy King is the Son of Nobles.</hi> 'Twas Queen <hi>Elizabeth</hi>'s Anſwer to thoſe that deſi<g ref="char:EOLhyphen"/>red her to acknowledge her Succeſſor, <hi>Thronus meus eſt Thro<g ref="char:EOLhyphen"/>nus Regum; Nolim ut vilis ſuccedat mihi.</hi> The higheſt of the <hi>Nobility</hi> gives a great Capacity for Rule and Authority. 'Twas God's Curſe on the <hi>Philiſtines,</hi> that <hi>a Baſtard</hi> ſhould <hi>Rule over them, Zach.</hi> 9.6. God he eſtabliſhed <hi>Zerubbabel</hi>'s Monarchy, and raiſed it out of Nobility, and ſettled it on a conſtant Succeſſion, made it hereditary,</q> 
+               <hi>Shealtiel</hi> comes by a lineal Deſcent from the Loins of <hi>David. David</hi> calls this the Eſtabliſhment of his <hi>Throne.</hi>
+               <note place="margin">2 <hi>Sam.</hi> 7.19.</note> 
+               <q rend="inline">
+                  <hi>Thou haſt ſpoken of thy Servants Houſe for a great while to come.</hi> God hath been careful to maintain this lineal Deſcent;
+<note place="margin">2 <hi>Chron.</hi> 24.1.</note> rather <hi>Joaſh, a Child</hi> of ſeven years old, ſhall be placed in the <hi>Throne,</hi> than this Succeſſion be interrupted.</q>
+            </p>
+            <p>
+               <q rend="inline">'Twas that which troubled <hi>Hezekiah</hi> moſt, That, if he had died of his great Sickneſs, he had left no Heir of the Crown behind him.
+<note place="margin">
+                     <hi>Ezek.</hi> 21.</note> 
+                  <hi>If Coniah dye Childleſs,</hi> yet reſerve the <hi>Diadem</hi> for him whoſe Right it is, to whom it belongs. 'Twas one Exception they took againſt <hi>Herod, Nec naſcendo, nec vivendo meruit regnum,</hi> He wanted both Birth and Breeding to make him a King.</q> Thus far that Reverend Prelate. If this be ſo, it is not for every Pope and Parliament to Crown whom they pleaſe; for that Right is the Lord's. If they ſhould fetch a Baſtard out of <hi>Aſhdod,</hi> and ſet the Crown upon him, yet we know that God can, and in his time will pull it off too. For when the Crown is ſet upon a wrong Head, <hi>Thus ſaith the Lord God, remove the Diadem, and take off the Crown. I will overturn, overturn, overturn it, and it ſhall be no more, untill he come whoſe right it is, and I will give it him,</hi> Ezek. 21.26, 27.</p>
+            <pb n="15" facs="tcp:62302:18"/>
+            <p>But as I have reaſon to hope, ſo alas! I have reaſon to fear too, that in time they may crown their Deſign, by caſting our <hi>Heir</hi> out of his Vineyard, and ſeizing on his Inheritance; but how long they may keep it, if they ſhould get it, that God knows.</p>
+            <p>My Reaſons are, that what hath been may be.</p>
+            <p n="1">1. Becauſe though God's Mercies in the preſent Inſtance do abound towards us, yet our Sins notwithſtanding do ſuperabound towards him.</p>
+            <p n="2">2. We have been unthankful for the Reſtauration of our moſt Gracious <hi>Heir</hi> to his <hi>Inheritance,</hi> and for all thoſe Bleſſings we enjoy by him.</p>
+            <p n="3">3. Rebels and Traitors never think themſelves ſafe, who once ſtrike at the Crown, unleſs they ſtrike off the Crown from Him, and His who wears it.</p>
+            <p n="4">4. Therefore ſuch Moles will never ceaſe plotting and work<g ref="char:EOLhyphen"/>ing, until they have either pulled down the Crown, or brought themſelves to Confuſion. And it's juſt with God, to puniſh the deeds of Darkneſs in ſome, by deeds of Darkneſs from others; ſo here for our Sins, to leave us not Vine nor Vineyard neither.</p>
+            <p>But if ſuch a <hi>Knack</hi> ſhould paſs, which they ſo earneſtly con<g ref="char:EOLhyphen"/>tend for, and we as earneſtly pray againſt; I fear it would have direful Effects: As,</p>
+            <p n="1">1. The Confutation of a chief Principle in our Proteſtant Re<g ref="char:EOLhyphen"/>ligion.</p>
+            <p n="2">2. It may produce a War which may laſt many Years. It will prove unto us a <hi>Pandora</hi>'s Box; it will bring with it ſuch epide<g ref="char:EOLhyphen"/>mical Evils.</p>
+            <p>As there were ſome who ſet againſt the <hi>Heir</hi> in the Text through Ignorance, and ſome through Wilfulneſs; ſo there were ſome alſo who kept themſelves Neuters, through Cowardice; content if they might but ſit under their own Vines, and their own Fig-trees, <hi>and drink every one the Waters of his own Ciſtern.</hi>
+               <note place="margin">Iſa. 36</note> They matter'd not who had the ſupreme Power, an Uſurper, or the rightful <hi>Heir.</hi> Of which ſort were <hi>Joſeph of Arimathea;</hi>
+               <note place="margin">Luke 51.</note>
+               <pb n="16" facs="tcp:62302:19" rendition="simple:additions"/>tho he conſented not unto Chriſt's Death,
+<note place="margin">Jo. 7.50.</note> yet he appeared not for his Life. And <hi>Nicodemus</hi> when he ſhould have done his So<g ref="char:EOLhyphen"/>vereign Service, tho he confeſſed that he came from God, yet he was aſhamed to own him as his Lord. But theſe, no doubt, believed that Chriſt was not only their King, but the Saviour of the World too;
+<note place="margin">Lu. 24.46.</note> for that, <hi>thus it was written, and thus it behoved Chriſt to ſuffer.</hi> For them then, voluntarily to ſet themſelves ſole<g ref="char:EOLhyphen"/>ly againſt the whole Torrent of the <hi>Jews</hi> malice, was not only to reſiſt Man, but God too. The caſe betwixt them and their So<g ref="char:EOLhyphen"/>vereign was extraordinary, and no Preſident for any man's pra<g ref="char:EOLhyphen"/>ctice now; unleſs it be to maintain his Majeſty's Right when he may be heard, and to ſtand by him at ſuch a time as this is, when we may do him Service:
+<note place="margin">Cum vitia proſunt pec<g ref="char:EOLhyphen"/>cat qui re<g ref="char:EOLhyphen"/>ctè facit.</note> for there was a time not long ſince, when in the preſent Inſtance we could not be heard.</p>
+            <p>If it be a Proteſtant's Duty to defend the Principles of his Re<g ref="char:EOLhyphen"/>ligion, then it is to defend the Birth-right of Kings; and that it is not lawful to depoſe or exclude them from their lawful In<g ref="char:EOLhyphen"/>heritance, as theſe two Brethren, the Papiſt and Preſbyterian, maintain both by their Doctrine and Practice.</p>
+            <p>If ſo, ſurely it is the bounden Duty of every Miniſter, in an eſpecial manner to defend his Religion, and the Prerogatives Royal. We that are Chriſt's Ambaſſadors, may not ſuffer the Regalities of his Vineyard to be torn from him, without be tray<g ref="char:EOLhyphen"/>ing our Truſt to our God and our King too. As in Murder all are Acceſſaries who are preſent, ſo it is in Treaſon. But we by our ſilence make our ſelves Principals, by not teaching the Peo<g ref="char:EOLhyphen"/>ple herein what to do, and what to eſchew; for he who hin<g ref="char:EOLhyphen"/>dereth not Sin and Sedition when he may, commands it.</p>
+            <p>Think not that any of us, who tamely ſit ſtill, and ſuffer wil<g ref="char:EOLhyphen"/>lingly the loſs of our Right in our <hi>David,</hi> ſhall be acquitted: no more than they were who conſented to the Civil War againſt our King (as it is phraſed) tho the ſame was a Rebellion in <hi>Ireland:</hi>
+               <note place="margin">Mat. 27.24</note> and with <hi>Pilate</hi> to waſh our hands, and to ſay, We are not guilty of the Blood of this juſt man. There are no Neuters in Treaſon, as there are no luke-warm perſons in Heaven: we
+<pb n="17" facs="tcp:62302:19"/>muſt be for God or againſt him. So we muſt be for the Lord of the Vineyard, and his Heir, or againſt them. As there is no de<g ref="char:EOLhyphen"/>vice can abſolve us from our Obedience to our Parents; ſo there's no Act can abſolve us from our Allegiance to our Prince, they ſtand both equally proped by one Command,
+<note place="margin">Ex. 20.12.</note> without Diſpenſation or Abſolution; whatever the Pope, the Papiſt, and the Commons in Parliament, the Preſbyterian God, pretend to the contrary.</p>
+            <p>As the King is juſtly defended by the Law in his Perſon, and Prerogatives from all Invaders; ſo is his Succeſſor to deſcend unto us, by the ſame Tenure: for he will not derive his Title from Man, but God, as doth his Predeceſſor. And if he or his Poſterity ſhould become evil Princes (which God forbid that any of the Poſterity of our Royal Martyr ſhould be ſo tainted) yet God can make them to become good Kings, <hi>Prov.</hi> 21.1.</p>
+            <p>To affirm then that an <hi>Houſe of Husbandmen,</hi> common Mecha<g ref="char:EOLhyphen"/>nicks, or Country-Farmers, who at firſt were called together by the Sovereign Lords of our <hi>Vineyard</hi> to conſult <hi>de dubiis &amp; arduis regni:</hi> who the nearer they were raiſed towards the Sun which exhaled them, the more exorbitant and formidable they grew: whether by Cunning and Policy, or Might and Rebel<g ref="char:EOLhyphen"/>lion, I ſhall not now determine.</p>
+            <p>When ſuch as theſe ſhall form themſelves into an <hi>High Court of Juſtice,</hi> or a <hi>Grand Committee</hi> (ſometimes equivalent Terms for an Arbitrary Council) and aſſume to themſelves greater Au<g ref="char:EOLhyphen"/>thority than that paternal Power which gave them Birth and Being. That is to alter the Courſe of Government,
+<note place="margin">
+                  <hi>Cauſa non impedien<g ref="char:EOLhyphen"/>tes</hi> are numbred by Philo<g ref="char:EOLhyphen"/>ſophers among moral effi<g ref="char:EOLhyphen"/>cient Cau<g ref="char:EOLhyphen"/>ſes.</note> and ſteer<g ref="char:EOLhyphen"/>age of our Obedience. He who doth thereto tamely conſent, doth betray his Chriſtian Truſt and Courage too, as well as he who doth ſo unjuſtly vote, and act for our Slavery.</p>
+            <p>For by our ſilence,</p>
+            <p n="1">1. We conſent, that the Crown is elective, and not heredi<g ref="char:EOLhyphen"/>tary.</p>
+            <p n="2">2. We deſpiſe God's Providence over us, in forſaking his Choice for us; we chuſe for our ſelves, which is in effect to do
+<pb n="18" facs="tcp:62302:20" rendition="simple:additions"/>as <hi>Iſrael</hi> did, not only to reject the lawful <hi>Heir</hi> or Succeſſor, but God too, 1 <hi>Sam.</hi> 8.7. For mans Law as it ought not to add, ſo it ought not to diminiſh from the Law of God. Theſe are but waſte words to you of the Clergy, who ſufficiently know your Duty herein; would to God you had all the Courage and Goodneſs to practice it as well.</p>
+            <p>To diſcourage us from our Duty, it's ſaid, that there is an Act made which gave to our Virgin Queen, together with her Parliament, the power of the Crown, and that no man may ſince affirm that, that may not be done without ſevere penalties; therefore I ſhall not reply unto it, either <hi>Pro</hi> or <hi>Con:</hi> only this I ſay, let us remember that we are Proteſtants, and not a miſcel<g ref="char:EOLhyphen"/>lany of Papiſts and Diſſenters, and let not the fear of Man raze out our Love and Duty to God and our King.</p>
+            <p>If ſuch an Act ſhould paſs, we cannot foreſee the Evils which it would bring with it, both to Church and State, as before in<g ref="char:EOLhyphen"/>timated. But I ſuppoſe the Intent of its Promoters is, to puniſh the true and orthodox Proteſtants, and to promote their Ad<g ref="char:EOLhyphen"/>verſaries to divide this our moſt gracious Sovereign's Inheritance between them.</p>
+            <p>The paſſing of ſuch an Act, would be like the paſſing-Bell which rang at the Command of <hi>Peter</hi> of <hi>Arragon</hi> in <hi>Sicily,</hi> which was the Signal to the <hi>Sicilian</hi> Maſſacre.</p>
+            <p>Let all then, but eſpecially we of the Clergy, ſet our ſelves againſt all whatſoever that ſhall endeavour the depoſing of our good and merciful King, or the Excluſion of his Heirs and Suc<g ref="char:EOLhyphen"/>ceſſors, or the Diviſion and Deſolation of this his Inheritance our <hi>Britiſh</hi> Vineyard.</p>
+            <p>Let each of us with <hi>Nehemiah</hi> caſt away fear,
+<note place="margin">Chap. 6.11</note> and ſay, <hi>Should ſuch a man as I flee?</hi> or warp from Proteſtant Principles, when the very Foundation of our Religion, our Laws, and our Loy<g ref="char:EOLhyphen"/>alty, ſtands at ſtake? It is a ſhame for Proteſtant Miniſters to own ſuch exotick Principles and Practices, as are now by ſome deſigning Leaders patronized, who yet affect the name of Pro<g ref="char:EOLhyphen"/>teſtants notwithſtanding. Which principles were they examined
+<pb n="19" facs="tcp:62302:20" rendition="simple:additions"/>by you, you would eaſily find, that they who defend them are of no Religion, but a Gallamalfry of Popery and Preſbyteriſm: for whatever is faced with Faction, is lined with Popery.</p>
+            <p>Do you think, that ſuch men as theſe owe any good Will to our <hi>Sion,</hi> who durſt be ſo impudently bold as to fly at our So<g ref="char:EOLhyphen"/>vereign? Such men as theſe do as much good in a Parliament-Houſe, as a MONKEY in a Glaſs-ſhop, who'll never ceaſe their ſetting of things in better order, until they have broken all in pieces.</p>
+            <p>
+               <hi>Now</hi> theſe are the men <hi>which I beſeech you, Brethren, to mark,</hi>
+               <note place="margin">Ro. 16.17.</note> for they <hi>cauſe Diviſions and Offences, contrary to the Doctrine which ye have learned; and avoid them.</hi>
+            </p>
+            <p>Let not any of them, either Father or Son, have your Voice or Aſſiſtance, to be Members of our Senates. For Treaſon is ſuch an hereditary Leproſie, that the Royal Ocean of Mercy and Bounty can ſcarce purifie it: for ſuch think, that it is ground enough for them irreconcileably to hate whom they have thus offended. I am ſorry that ever any of our Function ſhould be ſo weak and puſilanimous, ſo far to forſake their Station, as to ſtand by thoſe men, who ſo far ſet themſelves againſt our Sove<g ref="char:EOLhyphen"/>reign Lord, as to elect ſuch men who durſt oppoſe his Succeſ<g ref="char:EOLhyphen"/>ſor. Don't ye dream that you ſhall gain any great Boon by it. They may promiſe you <hi>Oliveyards</hi> and <hi>Vineyards,</hi> greater Par<g ref="char:EOLhyphen"/>ſonages, and a ſuperintendant power in your reſpective Pariſhes, but I doubt they'll deceive you, when they have ſerved them<g ref="char:EOLhyphen"/>ſelves by you: for it's a known Maxim, To love the Treaſon, but to hate the Traitor. But if they chance to be condemned, you may then have as many thanks as the Ladder, and the Hangman, and all those ſubſervient helps which brought them to that Doom. But if they ſhould proſper, and prevail in their At<g ref="char:EOLhyphen"/>tempts, how highly ſoever you are honoured by them now above your Brethren, yet all the favour you may expect from them then will be, <q rend="inline">Only the ſame <hi>Polyphemus</hi> granted to <hi>
+                     <g ref="char:V">Ʋ</g>lyſ<g ref="char:EOLhyphen"/>ſes,</hi> namely, That he ſhould be devoured the laſt of his Com<g ref="char:EOLhyphen"/>panions.</q>
+            </p>
+            <pb n="20" facs="tcp:62302:21"/>
+            <p>Now I have but little to ſay unto you who are Church-War<g ref="char:EOLhyphen"/>dens: your Faults I need not tell you, for the whole Town and Country talks of them. Matters would never have come to this paſs, had you, and ſuch as you, made Conſcience of your Oaths; but they who make no bones of Oaths, will make no ſcruple of Treaſon: for by the Tranſactions of what is lately paſt, one would think, that the likelieſt men to ſerve in our Parliaments would be ſuch only as you, or ſuch who have been actually in Arms againſt the King or his Father. My Reaſon is, becauſe ſuch men ſeem to pleaſe the Layety beſt, for that they will be ſure (if they can) to vote down the Heir, and all his Supporters.</p>
+            <p>But it is the parts and duties, both of Prieſts and People, to ſtop ſuch in their Career when opportunity ſhall offer it ſelf, that we like Proteſtants ſhould chooſe Proteſtants, and not men of blended Principles, and ſo by this means prevent their final Reſolve, <hi>viz. This is the Heir: come, let us kill him, that the In<g ref="char:EOLhyphen"/>heritance may be ours.</hi> From which Vote, good Lord deliver us, for Jeſus Chriſt his ſake; to whom, with the Father and Holy Ghoſt, be aſcribed all Honour, <hi>&amp;c.</hi> now and evermore. <hi>Amen.</hi>
+            </p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
